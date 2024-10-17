@@ -5,7 +5,6 @@ your one-stop resource hub for all things math! Whether you're a student,
 educator, or just someone with a passion for numbers, our goal is to provide you with the tools and resources 
 you need to succeed in your mathematical journey.
 
-
 ## Home Page
 ![ss1](https://github.com/user-attachments/assets/4dc2cb19-fb3e-495e-b8f3-b009b7f3b693)
 ![ss2](https://github.com/user-attachments/assets/75c28bcb-68a5-4167-861e-cdf9af7288ad)
